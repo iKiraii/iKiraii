@@ -1,6 +1,6 @@
 ### Hello, my name is Eyad `AKA` Kiraii <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Drink+WaterCreativity+%E2%9C%A8;Welcome+to+GitHub+of+Kiraii;Check+out+dev.kiraiii.repl.co)](https://dev.kiraiii.repl.co)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Drink+Water+%E2%9C%A8;Welcome+to+GitHub+of+Kiraii;Check+out+dev.kiraiii.repl.co)](https://dev.kiraiii.repl.co)
 
 ---
 
@@ -43,7 +43,6 @@
   
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iKiraii&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iKiraii&theme=nord_dark)
 
 ### 😀 My Discord account:
 - `Kiraii#9005`
