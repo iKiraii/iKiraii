@@ -9,7 +9,7 @@
 - I am Solo Game developer
 - I have dream to build programming [Discord server](https://discord.gg/AbFdsj7Se7)
 - I have a YouTube channel that provides explanations about Discord and programming
-- [My Twitter]([https://twitter.com/iKiraii]) <img src="https://media.giphy.com/media/mA7fEN41GcZNK04oRI/giphy.gif" width="22px">
+- [My Twitter](https://twitter.com/iKiraii)
 
 <br />
 
