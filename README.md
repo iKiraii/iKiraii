@@ -20,9 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iKiraii" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iKiraii" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> - `Kiraii#9005`
+<a href="https://discord.gg/AbFdsj7Se7" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
+### 😀 My Discord account:
+- `Kiraii#9005`
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
