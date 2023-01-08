@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iKiraii" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iKiraii" /></a>
-/// <a href="https://discord.gg/axkn2U9ErP" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> ///
+<a href="" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> - `Kiraii#9005`
 </p>
 
 <br />
@@ -46,12 +46,6 @@
 ### 📊 GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=iKiraii&theme=nord&show_icons=true&count_private=true)
   
-  
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iKiraii&theme=nord_dark)
-
-### 😀 My Discord account:
-- `Kiraii#9005`
 
  <br> 
  
