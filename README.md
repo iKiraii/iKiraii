@@ -15,14 +15,6 @@
 
 ---
 
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iKiraii" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
 ### My Discord account:
 - `Kiraii#9005`
 
