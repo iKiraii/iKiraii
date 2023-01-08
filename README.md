@@ -6,10 +6,10 @@
 
 <br />
 
-- I am JavaScript, NodeJS, CSS, HTML developer
-- I have dream to build programming [Discord server](https://discord.gg/st-studio)
+- I am Solo Game developer
+- I have dream to build programming [Discord server](https://discord.gg/AbFdsj7Se7)
 - I have a YouTube channel that provides explanations about Discord and programming
-- [My Youtube channel](https://www.youtube.com/channel/UCXSrBk2f9wzB-fugmRR4wsg) <img src="https://media.giphy.com/media/mA7fEN41GcZNK04oRI/giphy.gif" width="22px">
+- [My Twitter]([https://twitter.com/iKiraii]) <img src="https://media.giphy.com/media/mA7fEN41GcZNK04oRI/giphy.gif" width="22px">
 
 <br />
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iKiraii" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iKiraii" /></a>
-<a href="https://discord.gg/AbFdsj7Se7" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iKiraii" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-### 😀 My Discord account:
+### My Discord account:
 - `Kiraii#9005`
 
 <br />
@@ -39,14 +39,14 @@
 
 
 <!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
+### GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 
 <!--   Stats -->
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=iKiraii&theme=nord&show_icons=true&count_private=true)
   
 
