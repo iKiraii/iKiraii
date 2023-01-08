@@ -6,16 +6,16 @@
 
 <br />
 
-- I am Solo Game developer
-- I have dream to build programming [Discord server](https://discord.gg/AbFdsj7Se7)
-- I have a YouTube channel that provides explanations about Discord and programming
-- [My Twitter](https://twitter.com/iKiraii)
+- I am solo game developer
+- I have dream to build programming world
+- I takes about programming, football and anime on my twitter some times
+- [My Twitter account](https://twitter.com/iKiraii)
 
 <br />
 
 ### My Discord account:
 - `Kiraii#9005`
-
+- [Discord server](https://discord.gg/AbFdsj7Se7)
 ---
 
 <br />
