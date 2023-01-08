@@ -13,10 +13,10 @@
 
 <br />
 
----
-
 ### My Discord account:
 - `Kiraii#9005`
+
+---
 
 <br />
 
